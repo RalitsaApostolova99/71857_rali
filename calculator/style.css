@@ -1,0 +1,47 @@
+body{
+    background-color: aqua;
+}
+h1{
+    position: absolute;
+    left: 700px;
+    top:0px;
+}
+span{
+    color: black;
+    position: absolute;
+    left: 600px;
+    top:100px;
+   
+}
+input{
+    position: absolute;
+    left: 800px;
+    top:100px
+}
+#first{
+    top:100px;
+}
+#second{
+    top:150px;
+}
+#input1{
+    top:100px;
+}
+#input2{
+    top:150px;
+}
+select{
+    position: absolute;
+    left: 600px;
+    top:200px;
+}
+button{
+    position: absolute;
+    left: 800px;
+    top: 200px;
+}
+output{
+    position: absolute;
+    left: 600px;
+    top: 250px;
+}
